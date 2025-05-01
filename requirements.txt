@@ -57,6 +57,7 @@ jupyterlab_server @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000g
 jupyterlab_widgets==3.0.14
 kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cc2l_z_0ri/croot/kiwisolver_1737039586949/work
 lazy_loader @ file:///home/conda/feedstock_root/build_artifacts/lazy-loader_1733636780672/work
+lightning-utilities @ file:///home/conda/feedstock_root/build_artifacts/lightning-utilities_1743734367405/work
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1733219705194/work
 matplotlib==3.10.0
 matplotlib-inline @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f6fdc0hldi/croots/recipe/matplotlib-inline_1662014472341/work
@@ -114,6 +115,7 @@ tokenizers==0.21.1
 tomli @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d0e5ffbf-5cf1-45be-8693-c5dff8108a2awhthtjlq/croots/recipe/tomli_1657175508477/work
 torch==2.5.1
 torchaudio==2.5.1
+torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1744107217838/work
 torchvision==0.20.1
 tornado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_0axef5a0m0/croot/tornado_1733960501260/work
 tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5642tzrprr/croot/tqdm_1738943467095/work
