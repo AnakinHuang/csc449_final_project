@@ -133,7 +133,7 @@ pip install -r requirements.txt
 
 ## 👥 Contributors
 
-- **Yuesong Huang**
+- **Yuesong Huang** (yhu116@u.rochester.edu)
 - **Zijian Gu**
 
 ---
