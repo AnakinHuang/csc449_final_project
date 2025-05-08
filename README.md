@@ -1,6 +1,6 @@
 # Sketch-to-Image Translation: Pix2Pix vs. Stable Diffusion
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: BSD](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)
 
 ## 🚀 Overview
 
@@ -140,6 +140,6 @@ pip install -r requirements.txt
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License – see the [LICENSE](LICENSE) file for details.
 
 ---
